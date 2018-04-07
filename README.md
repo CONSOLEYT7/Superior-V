@@ -3,3 +3,5 @@ Superior-V ©Copyright By CONSOLEYT7
 THIS PROGRAM IS FOR EDUCATION/EXPERIMENT
 
 DO NOT USE THIS PROGRAM BADLY!
+
+Open Superior-V.bat For Run This Program!
