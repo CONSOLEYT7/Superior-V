@@ -1,0 +1,5 @@
+Superior-V ©copyright By CONSOLEYT7.
+DO NOT USE THIS PROGRAM BADLY.
+THIS PROGRAM IS FOR EDUCATION/EXPERIMENT.
+
+Please Un-Zip All File in Same Directory.
